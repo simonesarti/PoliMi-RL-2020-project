@@ -1,4 +1,4 @@
-# PoliMi-RL-2020-project
+# PoliMi **Reti Logiche* 2020 project: VHDL Working Zone Encoder
 
 ## General Description
 The specification of the Final Proof (Logical Networks Project) 2019 is inspired by the coding method with low power dissipation called "Working Zone". The Working Zone encoding method is a method designed for the Address Bus that is used to transforming the value of an address when it is transmitted, if it belongs to certain intervals (known as working-zones). A working zone is defined as an interval of addresses of fixed size (Dwz) starting from a base address. Within the coding scheme, multiple working-zones (Nwz) may exist. The modified coding scheme to be implemented is as follows:
